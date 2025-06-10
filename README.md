@@ -73,7 +73,7 @@ After model training and inverse-transforming the predictions, the following met
 - Regular model retraining to adapt to market shifts
 
 ---
-
+python [`XBG Prediciton Code.py`](https://github.com/ashwinak7/house-price-prediction/blob/main/XGB%20Prediction%20Code.py)
 ## 📂 Running the Code
 
 ```bash
