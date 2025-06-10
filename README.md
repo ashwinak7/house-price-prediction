@@ -81,4 +81,4 @@ After model training and inverse-transforming the predictions, the following met
 pip install -r requirements.txt
 
 # Run the notebook or script
-python XBG Prediciton Code.py
+python ['XBG Prediciton Code.py'](XGB Prediction Code.py)
