@@ -81,4 +81,4 @@ After model training and inverse-transforming the predictions, the following met
 pip install -r requirements.txt
 
 # Run the notebook or script
-python ['XBG Prediciton Code.py'](https://github.com/ashwinak7/house-price-prediction/blob/main/XGB%20Prediction%20Code.py)
+python [`XBG Prediciton Code.py`](https://github.com/ashwinak7/house-price-prediction/blob/main/XGB%20Prediction%20Code.py)
